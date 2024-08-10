@@ -1,21 +1,20 @@
-# CodeIgniter 3 Project
+# Proyek CodeIgniter 3
 
-This is a CodeIgniter 3 project. Follow the steps below to set up and run the project on your local environment.
+Ini adalah proyek yang dibangun menggunakan CodeIgniter 3. Ikuti langkah-langkah di bawah ini untuk menyiapkan dan menjalankan proyek di lingkungan lokal Anda.
 
-## Prerequisites
+## Prasyarat
 
-Make sure you have the following installed on your system:
+Pastikan Anda memiliki hal berikut yang terinstal di sistem Anda:
 
 - PHP (>= 5.6)
-- MySQL or any other supported database
-- Composer (for managing dependencies, optional)
-- Apache or Nginx server
+- MySQL atau database lain yang didukung
+- Composer (untuk mengelola ketergantungan, opsional)
+- Server Apache atau Nginx
 
-## Installation
+## Instalasi
 
-1. **Clone the Repository**
+1. **Kloning Repositori**
 
-		```bash
-		git clone https://github.com/your-username/your-repository.git
-   
-		cd your-repository
+   ```bash
+   git clone https://github.com/username/repository.git
+   cd repository
